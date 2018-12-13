@@ -1,0 +1,51 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.site-wrapper{
+    height: 100%;
+    width: 100%;
+}
+
+header{
+    background: #e94326;
+    color: aliceblue;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+   
+
+}
+.main-content{
+    height: 80%;
+}
+
+
+.registration-fields{
+    margin-top: 60px;
+   
+    text-align: center;
+  
+}
+.buttons div{
+    display: inline-block;
+}
+footer{
+    background: #e94326;
+    color: aliceblue;
+    width: 100%;
+    font-weight: 600;
+    display: inline-block;
+    position: absolute;
+
+}
+.main-footer ul li{
+    display: inline-block;
+}
+
+@media screen and (max-width:700px){
+}
